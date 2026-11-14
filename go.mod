@@ -1,3 +1,5 @@
 module github.com/Priyanshu321-cell/RSS-aggregator
 
 go 1.27.0
+
+require github.com/joho/godotenv v1.5.1
